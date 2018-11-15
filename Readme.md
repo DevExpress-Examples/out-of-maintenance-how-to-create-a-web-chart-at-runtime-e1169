@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/RunTimeWebChart/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/RunTimeWebChart/Default.aspx.vb))
+<!-- default file list end -->
 # How to create a web chart at runtime
 
 
